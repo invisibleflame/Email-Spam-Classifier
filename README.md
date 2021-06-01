@@ -1,7 +1,6 @@
 # Email-Spam-Classifier
 
-Implementation of an email spam classifier using the bidirectional lstm and word tokenizers along with a mild preprocessing. 
-A web app for the same coming up.
+Implementation of an end to end email spam classifier using the bidirectional lstm and word tokenizers along with a mild preprocessing and Flask backend. 
 
 Data: https://www.kaggle.com/uciml/sms-spam-collection-dataset
 
